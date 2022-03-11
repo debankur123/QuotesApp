@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6092bc8d-11fb-4dac-bcc4-e8e135ab41fd": {
+      "ProjectGuid": "6092bc8d-11fb-4dac-bcc4-e8e135ab41fd",
+      "DisplayName": "QuotesApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
